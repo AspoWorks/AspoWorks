@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aspo</h1>
 <h3 align="center">dumb asf (trying my best)</h3>
 
-- 🔭 I’m currently working on **nothing**
+- °🌊 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **LUA,PHYTON,JAVA**
+- °🌊 I’m currently learning **LUA,PHYTON,JAVA**
 
-- 👯 I’m looking to collaborate on **none**
+- °🌊 I’m looking to collaborate on **none**
 
-- 🤝 I’m looking for help with **none**
+- °🌊 I’m looking for help with **none**
 
-- 💬 Ask me about **nothing because im dumb asf**
+- °🌊 Ask me about **nothing because im dumb asf**
 
-- 📫 How to reach me **idk discord whatever**
+- °🌊 How to reach me **idk discord whatever**
 
-- ⚡ Fun fact **dumb asf**
+- °🌊 Fun fact **dumb asf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
