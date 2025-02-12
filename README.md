@@ -1,7 +1,7 @@
+<h1 align="left">Welcome</h1> 
 
+<img src="https://64.media.tumblr.com/37b54c828a12d6b13e1d518f07d01eba/de5a35eddd9fad73-56/s500x750/81e22bcf0f4b4d8f7c6930344f91362f8ea97985.gifv" align="right" width="500"  alt="Espaço">
 
-<img src="https://64.media.tumblr.com/37b54c828a12d6b13e1d518f07d01eba/de5a35eddd9fad73-56/s500x750/81e22bcf0f4b4d8f7c6930344f91362f8ea97985.gifv" align="center" width="10000" height="300" alt="Image description">
-<h1 align="center">Welcome</h1> 
 
 <h3 align="left">dumb asf (trying my best)</h3> 
 - <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="10000" height="100" alt="Image description">
